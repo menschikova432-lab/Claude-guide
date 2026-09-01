@@ -1,0 +1,6 @@
+{
+  "name": "Claude Pro Lead Magnet Guide",
+  "description": "Интерактивный гайд и лид-магнит по оплате и настройке Claude Pro с экспортом в PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
